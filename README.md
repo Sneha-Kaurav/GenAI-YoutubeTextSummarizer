@@ -37,7 +37,7 @@ bilal521/t5-youtube-summarizer — A fine-tuned T5 model for summarizing YouTube
 You can take a screenshot after you launch the app and replace the link above.
 
 ## 🛡️ License
-MIT License
+None. This is a personal project for learning purpose and can be used by anyone.
 
 
 ---
