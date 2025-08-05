@@ -28,7 +28,7 @@ bilal521/t5-youtube-summarizer — A fine-tuned T5 model for summarizing YouTube
 @misc{t5ytsummarizer2025,                            <br>
   title={T5 YouTube Transcript Summarizer},          <br>
   author={Muhammad Bilal Yousaf},                    <br>
-  year={2025},
+  year={2025},                                       <br>
   howpublished={\url{https://huggingface.co/bilal521/t5-youtube-summarizer}},
 }
 
