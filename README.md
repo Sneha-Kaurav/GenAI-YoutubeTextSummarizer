@@ -20,6 +20,15 @@ youtube-transcript-api           <br>
 protobuf                         <br>
 sentencepiece                    
 
+## ⚠️ Deployment Note
+This app uses the youtube-transcript-api to fetch transcripts directly from YouTube.
+Due to network restrictions on free Hugging Face Spaces, the app may throw a Failed to resolve 'www.youtube.com' error when deployed there.
+
+<b> Workarounds:  <\b>
+Run the app locally using python app.py
+
+Or deploy on platforms that allow outbound internet (e.g., Gradio Hosted, Inference Endpoints, or Render)
+
 ## 🤖 Model Info
 The summarization is powered by:
 
