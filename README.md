@@ -11,14 +11,14 @@ This is a simple and powerful web app that summarizes the **transcript of any Yo
 - User-friendly web UI powered by Gradio
 
 ## 📦 Requirements
-requirements.txt:
+requirements.txt:              
 
-torch
-transformers
-gradio
-youtube-transcript-api
-protobuf
-sentencepiece
+torch                            <br>
+transformers                     <br>
+gradio                           <br>
+youtube-transcript-api           <br>
+protobuf                         <br>
+sentencepiece                    
 
 ## 🤖 Model Info
 The summarization is powered by:
