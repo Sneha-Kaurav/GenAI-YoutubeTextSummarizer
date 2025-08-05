@@ -24,8 +24,10 @@ sentencepiece
 The summarization is powered by:
 
 bilal521/t5-youtube-summarizer — A fine-tuned T5 model for summarizing YouTube transcripts.
+
 <br>
 <b> citation: </b>                                   <br>
+
 @misc{t5ytsummarizer2025,                            <br>
   title={T5 YouTube Transcript Summarizer},          <br>
   author={Muhammad Bilal Yousaf},                    <br>
