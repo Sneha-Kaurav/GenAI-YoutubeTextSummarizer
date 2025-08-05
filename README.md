@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Summarizer with T5
+# 🎥 YouTube Video Summarizer with T5 Transformer
 
 This is a simple and powerful web app that summarizes the **transcript of any YouTube video** using a fine-tuned T5 transformer model. Built with Python, Hugging Face Transformers, and Gradio.
 
